@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>images/main-picedited.png</ImageUrl>
+    <!--<NavigateUrl>http://www.microsoft.com</NavigateUrl>-->
+    <AlternateText>Visit Microsoft's Site</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>ProductInfo</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/MenTshirt_Slideredited.png</ImageUrl>
+    <!--<NavigateUrl>http://www.google.com</NavigateUrl>-->
+    <AlternateText>Visit google's website</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>google</Keyword>
+  </Ad>
+</Advertisements>
+

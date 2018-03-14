@@ -1,0 +1,43 @@
+﻿body
+{
+	margin:0px;
+	background:url('images/productbg.png') no-repeat;
+	background-position:top center;
+	
+}
+
+.product
+{
+	font-family:Lucida Handwriting;
+	font-size:Large;
+	color:#FFB951;
+	
+}
+
+.label
+{
+	font-family:Lucida Handwriting;
+	font-weight:bold;
+	color:#FFCC66;
+}
+
+.linkbutton
+{
+	font-family:Lucida Handwriting;
+	color:White;
+	font-size:large;
+}
+
+.textbox
+{
+	font-family:Lucida Handwriting;
+	color:Black;
+	font-size:large;
+}
+.p
+{
+	text-align:center;
+	font-family:Courier New Greek;
+	color:White;
+	font:XX-Large;
+}
